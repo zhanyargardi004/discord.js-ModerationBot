@@ -1,3 +1,3 @@
 exports.Prefix = `!`;
-exports.Token = `your bot token`;
+exports.Token = `ODkzMjQ2MTU1NzgwMTYxNTk3.YVYqTw.5629wk6H2wtyafPShJNxyoiPm_s`;
 exports.Color = `RANDOM`;
